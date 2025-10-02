@@ -176,3 +176,4 @@ elif st.session_state.page == "liste":
     st.write("Page de test pour la liste de courses")
     if st.button("⬅️ Retour à l'accueil"):
         go_to("home")
+
